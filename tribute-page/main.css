@@ -7,7 +7,9 @@ img {
 
 @media (min-width: 700px) {
   img {
-  max-width: 40%;
+  display: block;
+  max-width: 60%;
+  height: auto;
     }
 }
 
