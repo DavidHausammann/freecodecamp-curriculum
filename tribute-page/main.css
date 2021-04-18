@@ -5,8 +5,10 @@ img {
   height: auto;
 }
 
-@media (min-height: 350px) img {
+@media (min-height: 350px) {
+  img {
   max-width: 40%;
+    }
 }
 
 main {
