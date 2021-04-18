@@ -5,10 +5,10 @@ img {
   height: auto;
 }
 
-@media (min-width: 350px) {
+@media (min-width: 450px) {
   img {
   display: block;
-  max-width: 250px;
+  max-width: 350px;
   height: auto;
     }
 }
